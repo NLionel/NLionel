@@ -1,16 +1,13 @@
-## Hi there 👋
+# Nelo Lionel Aracena Peredo
 
-<!--
-**NLionel/NLionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET Full Stack Developer based in Cochabamba, Bolivia (UTC-4), with 20+ years building enterprise software.
 
-Here are some ideas to get you started:
+**Currently:** multi-tenant, cloud-based TMS for LTL freight. ASP.NET Core microservices with Clean Architecture and CQRS, carrier integrations (REST and SOAP/WCF), identity/RBAC, deployed on Azure App Service with Azure DevOps CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** C#, .NET 8/9, ASP.NET Core, EF Core, SignalR · Angular, TypeScript, NgRx, PrimeNG, Tailwind · SQL Server, Redis · Azure (App Service, Functions, Blob) · xUnit, Moq
+
+**Learning now:** Azure AI apps and agents (AI-103), MCP, AI-assisted development workflows.
+
+Most of my professional work lives in private repositories. Happy to walk through architecture and code in an interview.
+
+[LinkedIn](https://www.linkedin.com/in/your-profile)
