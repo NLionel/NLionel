@@ -10,4 +10,4 @@ Senior .NET Full Stack Developer based in Cochabamba, Bolivia (UTC-4), with 20+ 
 
 Most of my professional work lives in private repositories. Happy to walk through architecture and code in an interview.
 
-[LinkedIn](https://www.linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/nelo-lionel-aracena-peredo)
